@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/armband",
+    "prod_uri":"mysql://root:@localhost/armband",
+    "blog_name":"Your Blog's name",
+    "tag_line": "Write it down",
+    "gmail-user": "youremail@gmail.com",
+    "gmail-password": "yourpassword",
+    "about-text": "About your blog",
+    "no_of_posts": "1",
+    "login_image": "login.svg",
+    "admin_user": "Yusuf",
+    "admin_password": "12345",
+    "upload_location": "C:\\Users\\Yusuf\\PycharmProjects\\website_flask\\static"
+
+  }
+
+
+}
